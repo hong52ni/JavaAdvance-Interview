@@ -2,9 +2,18 @@
 包括 Java 集合、JVM、多线程、并发编程、设计模式、SpringBoot、SpringCloud、Java、MyBatis、ZooKeeper、Dubbo、Elasticsearch、Memcached、MongoDB、Redis、MySQL、RabbitMQ、Kafka、Linux、Netty、Tomcat、Python、HTML、CSS、Vue、React、JavaScript、Android 大数据、阿里巴巴等大厂面试题等、等技术栈！
 
 ---
-Java基础
-Java并发编程
-JVM虚拟机
+- Java基础
+
+![image](https://user-images.githubusercontent.com/28288225/156195686-85479839-bae2-454b-94f1-e71f8c033cd1.png)
+- Java并发编程
+
+![image](https://user-images.githubusercontent.com/28288225/156195977-1e5041f6-500a-487a-a1c5-467485a04db8.png)
+
+- JVM虚拟机
+
+![image](https://user-images.githubusercontent.com/28288225/156195843-9dbb021e-c545-4041-8032-ae726e106390.png)
+
+
 
 ---
 elasticsearch
@@ -42,4 +51,6 @@ Dubbo
 
 ![image](https://user-images.githubusercontent.com/28288225/156194115-4af3991d-6ce5-45e2-86e1-8969c4503bf1.png)
 
+![qrcode_for_gh_7612c42dcad3_258](https://user-images.githubusercontent.com/28288225/156195397-8e97e523-a5e8-4327-8b35-cefc081e3ba8.jpg)
 
+关注公众号，回复**面试题**获取

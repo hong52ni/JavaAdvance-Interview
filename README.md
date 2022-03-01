@@ -2,7 +2,9 @@
 包括 Java 集合、JVM、多线程、并发编程、设计模式、SpringBoot、SpringCloud、Java、MyBatis、ZooKeeper、Dubbo、Elasticsearch、Memcached、MongoDB、Redis、MySQL、RabbitMQ、Kafka、Linux、Netty、Tomcat、Python、HTML、CSS、Vue、React、JavaScript、Android 大数据、阿里巴巴等大厂面试题等、等技术栈！
 
 ---
-Java
+Java基础
+Java并发编程
+JVM虚拟机
 
 ---
 elasticsearch
@@ -23,5 +25,21 @@ elasticsearch
 
 ![image](https://user-images.githubusercontent.com/28288225/156193359-35dd56c6-6e45-4e4b-86c3-0a11d20cb9f5.png)
 
---
+---
 Dubbo
+1. 为什么要用 Dubbo？
+2. Dubbo 是什么？
+3. Dubbo 的使用场景有哪些？
+4. Dubbo 核心功能有哪些？
+5. Dubbo 核心组件有哪些？
+6. Dubbo 服务器注册与发现的流程？
+7. Dubbo 的整体架构设计有哪些分层?
+8. Dubbo Monitor 实现原理？
+9. Dubbo 类似的分布式框架还有哪些？
+10. Dubbo 和 Spring Cloud 有什么关系？
+
+...
+
+![image](https://user-images.githubusercontent.com/28288225/156194115-4af3991d-6ce5-45e2-86e1-8969c4503bf1.png)
+
+

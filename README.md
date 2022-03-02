@@ -1,6 +1,8 @@
 # 2022最新Java面试题合集
 包括 Java 集合、JVM、多线程、并发编程、设计模式、SpringBoot、SpringCloud、Java、MyBatis、ZooKeeper、Dubbo、Elasticsearch、Memcached、MongoDB、Redis、MySQL、RabbitMQ、Kafka、Linux、Netty、Tomcat、Python、HTML、CSS、Vue、React、JavaScript、Android 大数据、阿里巴巴等大厂面试题等、等技术栈！
 
+![image](https://user-images.githubusercontent.com/28288225/156381520-170ef8d5-14b8-4ba9-b5cd-dd6192f65207.png)
+
 
 
 ## Java集合容器
@@ -20,6 +22,8 @@
 
 ![image](https://user-images.githubusercontent.com/28288225/156195686-85479839-bae2-454b-94f1-e71f8c033cd1.png)
 
+
+
 ## Java多线程
 
 1. 多线程有什么用？
@@ -36,6 +40,7 @@
  ......
 
 ![image](https://user-images.githubusercontent.com/28288225/156366515-86263728-2ae8-4515-a67a-3bf65fa63a78.png)
+
 
 
 ## Java并发编程
@@ -55,6 +60,8 @@
 
 ![image](https://user-images.githubusercontent.com/28288225/156195977-1e5041f6-500a-487a-a1c5-467485a04db8.png)
 
+
+
 ## JVM虚拟机
 
 1. 我们开发人员编写的Java代码是怎么让电脑认识的
@@ -71,6 +78,8 @@
  ......
 
 ![image](https://user-images.githubusercontent.com/28288225/156195843-9dbb021e-c545-4041-8032-ae726e106390.png)
+
+
 
 ## Tomcat
 
@@ -108,6 +117,8 @@
 
 ![image](https://user-images.githubusercontent.com/28288225/156369431-d6fc1001-04c2-4401-bb94-8219b6fe1133.png)
 
+
+
 ## Memcached
 
 1. Memcached是什么，有什么作用？
@@ -126,6 +137,7 @@
  ![image](https://user-images.githubusercontent.com/28288225/156371445-943789a9-a557-4184-b9ac-32b5a0886b2d.png)
 
 
+
 ## Redis
 
 1. 什么是Redis？
@@ -142,6 +154,7 @@
  ......
 
 ![image](https://user-images.githubusercontent.com/28288225/156370431-9878cbb8-8cce-45bb-9af7-1ea3684d672f.png)
+
 
 
 ## elasticsearch
@@ -163,6 +176,7 @@
 ![image](https://user-images.githubusercontent.com/28288225/156193359-35dd56c6-6e45-4e4b-86c3-0a11d20cb9f5.png)
 
 
+
 ## ZooKeeper
 
 1. ZooKeeper 是什么？
@@ -181,6 +195,7 @@
 ![image](https://user-images.githubusercontent.com/28288225/156370937-966972e9-9e4d-43c9-beac-3923be600396.png)
 
 
+
 ## Dubbo
 1. 为什么要用 Dubbo？
 2. Dubbo 是什么？
@@ -196,6 +211,8 @@
  ......
 
 ![image](https://user-images.githubusercontent.com/28288225/156194115-4af3991d-6ce5-45e2-86e1-8969c4503bf1.png)
+
+
 
 
 ## RocketMq
@@ -240,6 +257,8 @@
 ![image](https://user-images.githubusercontent.com/28288225/156374041-5a238c04-75b5-4de2-b537-8c92ed097e85.png)
 
 
+
+
 ## RabbitMQ
 
 1. 什么是MQ
@@ -257,6 +276,25 @@
  
 ![image](https://user-images.githubusercontent.com/28288225/156374538-d0d42a57-34e7-4ded-b6b8-ae84d216b148.png)
 
+
+
+## Netty
+
+1. Netty
+2. I/O 模式
+3. I/O 多路复用
+  1. select
+  2. poll
+  3. epoll
+4. Java 的 I/o
+5. Netty 线程模型和 Reactor 模式
+6. Echo服务
+7. 源码剖析
+
+ ......
+ 
+
+ ![image](https://user-images.githubusercontent.com/28288225/156383064-d7eb4ae0-ef67-4b73-ac32-5adf36608492.png)
 
  
 

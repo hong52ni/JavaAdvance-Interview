@@ -1,4 +1,4 @@
-# 2022最新Java面试题合集
+# 2022最新Java面试题合集，文末获取所有面试题资源
 包括 Java 集合、JVM、多线程、并发编程、设计模式、SpringBoot、SpringCloud、Java、MyBatis、ZooKeeper、Dubbo、Elasticsearch、Memcached、MongoDB、Redis、MySQL、RabbitMQ、Kafka、Linux、Netty、Tomcat、Python、HTML、CSS、Vue、React、JavaScript、Android 大数据、阿里巴巴等大厂面试题等、等技术栈！
 
 ![image](https://user-images.githubusercontent.com/28288225/156381520-170ef8d5-14b8-4ba9-b5cd-dd6192f65207.png)
@@ -303,4 +303,4 @@
 
 ![qrcode_for_gh_7612c42dcad3_258](https://user-images.githubusercontent.com/28288225/156195397-8e97e523-a5e8-4327-8b35-cefc081e3ba8.jpg)
 
-关注公众号 **Java架构师进阶编程**，回复**面试题**获取
+扫码关注公众号 **Java架构师进阶编程**，回复**面试题**白嫖所有资源

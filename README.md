@@ -1,9 +1,23 @@
-# 2022最新Java面试题合集
-包括 Java 集合、JVM、多线程、并发编程、设计模式、SpringBoot、SpringCloud、Java、MyBatis、ZooKeeper、Dubbo、Elasticsearch、Memcached、MongoDB、Redis、MySQL、RabbitMQ、Kafka、Linux、Netty、Tomcat、Python、HTML、CSS、Vue、React、JavaScript、Android 大数据、阿里巴巴等大厂面试题等等技术栈！
+# 🔥🔥🔥 2022最新Java面试题合集
 
-![image](https://user-images.githubusercontent.com/28288225/156381520-170ef8d5-14b8-4ba9-b5cd-dd6192f65207.png)
+🎖️🎖️🎖️ 包括 Java 集合、JVM、多线程、并发编程、设计模式、SpringBoot、SpringCloud、Java、MyBatis、ZooKeeper、Dubbo、Elasticsearch、Memcached、MongoDB、Redis、MySQL、RabbitMQ、Kafka、Linux、Netty、Tomcat、Python、HTML、CSS、Vue、React、JavaScript、Android 大数据、阿里巴巴等大厂面试题等、等技术栈！
 
-## :tada:  Live Examples (for this repo)
+
+
+
+![](https://img.shields.io/static/v1?label=bestjavaer&message=操作系统&color=blue)   ![](https://img.shields.io/static/v1?label=bestjavaer&message=计算机基础&color=<COLOR>)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=计算机网络&color=yellowgreen)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=设计模式&color=success)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=JVM&color=important)
+
+![](https://img.shields.io/static/v1?label=bestjavaer&message=Java基础&color=orange)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=Java并发&color=9cf)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=Spring&color=blueviolet)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=SpringBoot&color=informational)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=Springcloud&color=ff69b4)
+
+
+<img src="https://user-images.githubusercontent.com/27909365/156888297-294feb0a-7b53-4abc-8306-72226ca8cda4.png" style="max-width: 100%;">
+
+
+<a href="https://mp.weixin.qq.com/s?__biz=MzkyNzMyODc3Mg==&mid=2247484984&idx=1&sn=88af403112b249e9b5552a380fc62daf&chksm=c228f953f55f704592dede1412d65815fd6e09432d6704d9e0355bca6717de8f2b2a40aa5cb6#rd" rel="nofollow"><img src="https://user-images.githubusercontent.com/27909365/156881472-05077cb8-fff0-40c8-a803-24b5f0f8da3a.png" data-canonical-src="https://user-images.githubusercontent.com/27909365/156881472-05077cb8-fff0-40c8-a803-24b5f0f8da3a.png" style="max-width: 100%;">
+</a>
+
+
+## 🎉 真心希望能帮助到大家，同时希望大家的支持求个 Star，Fork 谢谢（持续完善更新～）
 
 ### &#8627; Stargazers
 [![Stargazers repo roster for @hong52ni/JavaAdvance-Interview](https://reporoster.com/stars/hong52ni/JavaAdvance-Interview)](https://github.com/hong52ni/JavaAdvance-Interview/stargazers)
@@ -11,7 +25,7 @@
 ### &#8627; Forkers
 [![Forkers repo roster for @hong52ni/JavaAdvance-Interview](https://reporoster.com/forks/hong52ni/JavaAdvance-Interview)](https://github.com/hong52ni/JavaAdvance-Interview/network/members)
 
-## Java集合容器
+## 🏆 Java集合容器
 
 1. 什么是集合
 2. 集合的特点
@@ -30,7 +44,7 @@
 
 
 
-## Java多线程
+## 🎊 Java多线程
 
 1. 多线程有什么用？
 2. 线程和进程的区别是什么？
@@ -49,7 +63,7 @@
 
 
 
-## Java并发编程
+## 🎯 Java并发编程
 
 1. 为什么要使用并发编程
 2. 多线程应用场景
@@ -68,7 +82,7 @@
 
 
 
-## JVM虚拟机
+## ✈️ JVM虚拟机
 
 1. 我们开发人员编写的Java代码是怎么让电脑认识的
 2. 为什么说java是跨平台语言
@@ -87,7 +101,7 @@
 
 
 
-## Tomcat
+## ✨ Tomcat
 
 1. Tomcat的缺省端口是多少，怎么修改？
 2. Tomcat 有哪几种Connector 运行模式(优化)？
@@ -106,7 +120,7 @@
 
  
 
-## MySQL
+## 🎺 MySQL
 
 1. MySQL 中有哪几种锁？
 2. MySQL 中有哪些不同的表格？
@@ -125,7 +139,7 @@
 
 
 
-## Memcached
+## 👍 Memcached
 
 1. Memcached是什么，有什么作用？
 2. Memcached服务分布式集群如何实现？
@@ -144,7 +158,7 @@
 
 
 
-## Redis
+## 👏 Redis
 
 1. 什么是Redis？
 2. Redis有哪些优缺点？
@@ -163,7 +177,7 @@
 
 
 
-## elasticsearch
+## 🖥️ elasticsearch
 1. elasticsearch 了解多少，说说你们公司 es 的集群架构，索引数据大小，分片有多少，以及一些调优手段 
 2. elasticsearch 的倒排索引是什么
 3. elasticsearch 索引数据多了怎么办，如何调优，部署
@@ -183,7 +197,7 @@
 
 
 
-## ZooKeeper
+## ✨ ZooKeeper
 
 1. ZooKeeper 是什么？
 2. ZooKeeper 提供了什么？
@@ -202,7 +216,7 @@
 
 
 
-## Dubbo
+## 💾 Dubbo
 1. 为什么要用 Dubbo？
 2. Dubbo 是什么？
 3. Dubbo 的使用场景有哪些？
@@ -221,7 +235,7 @@
 
 
 
-## RocketMq
+## 🐮 RocketMq
 
 1. RocketMq 是什么
 2. RocketMq 有什么功能
@@ -242,7 +256,7 @@
 
  
  
-## Kafka
+## 🔨 Kafka
 
 1. Kafka 架构
 2. Kafka 基础概念
@@ -265,7 +279,7 @@
 
 
 
-## RabbitMQ
+## 🔮 RabbitMQ
 
 1. 什么是MQ
 2. MQ的优点
@@ -284,7 +298,7 @@
 
 
 
-## Netty
+## 🎉 Netty
 
 1. Netty
 2. I/O 模式
@@ -304,9 +318,27 @@
 
  
 
+## 🏆 一线大厂面试题
+
+1. 百度篇
+2. 滴滴篇
+3. 华为篇
+4. 京东篇
+5. 美团篇
+6. 腾讯篇
+7. 头条篇
+
+ ......
+
+
 
 ---
 
-![qrcode_for_gh_7612c42dcad3_258](https://user-images.githubusercontent.com/28288225/156195397-8e97e523-a5e8-4327-8b35-cefc081e3ba8.jpg)
+**<font face="宋体" color=red>持续更新中！**
 
-扫码关注公众号 **Java架构师进阶编程**，回复**面试**白嫖所有资源
+![image](https://user-images.githubusercontent.com/27909365/156886582-98607a79-b53c-4444-a194-145c992f5777.png)
+
+
+ 关注公众号：**Java架构师进阶编程**，回复 <font face="宋体" color=red>面试</font> ，获取上百份面试资源！ 
+
+![](https://user-images.githubusercontent.com/27909365/156889006-109e00b2-b51c-4bb6-a776-977889293159.png)

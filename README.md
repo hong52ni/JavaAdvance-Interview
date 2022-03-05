@@ -339,6 +339,6 @@
 ![image](https://user-images.githubusercontent.com/27909365/156886582-98607a79-b53c-4444-a194-145c992f5777.png)
 
 
- 关注公众号：**Java架构师进阶编程**，回复 <font face="宋体" color=red>面试</font> ，获取上百份面试资源！ 
+ 关注公众号：**Java架构师进阶编程**，回复 “**面试**” ，获取上百份面试资源！ 
 
 ![](https://user-images.githubusercontent.com/27909365/156889006-109e00b2-b51c-4bb6-a776-977889293159.png)

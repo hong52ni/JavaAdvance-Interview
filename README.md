@@ -5,9 +5,7 @@
 
 
 
-![](https://img.shields.io/static/v1?label=JavaAdvanc&message=操作系统&color=blue)   ![](https://img.shields.io/static/v1?label=JavaAdvance&message=计算机基础&color=<COLOR>)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=计算机网络&color=yellowgreen)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=设计模式&color=success)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=JVM&color=important) ![](https://img.shields.io/static/v1?label=JavaAdvance&message=Linux&color=palegoldenrod)
-
-![](https://img.shields.io/static/v1?label=JavaAdvance&message=Java基础&color=orange)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=Java并发&color=9cf)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=Spring&color=blueviolet)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=SpringBoot&color=informational)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=Springcloud&color=ff69b4) 
+![](https://img.shields.io/static/v1?label=JavaAdvanc&message=操作系统&color=blue)   ![](https://img.shields.io/static/v1?label=JavaAdvance&message=计算机基础&color=<COLOR>)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=计算机网络&color=yellowgreen)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=设计模式&color=success)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=JVM&color=important) ![](https://img.shields.io/static/v1?label=JavaAdvance&message=Linux&color=palegoldenrod) ![](https://img.shields.io/static/v1?label=JavaAdvance&message=Java基础&color=orange)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=Java并发&color=9cf)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=Spring&color=blueviolet)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=SpringBoot&color=informational)  ![](https://img.shields.io/static/v1?label=JavaAdvance&message=Springcloud&color=ff69b4) 
 
 
 <img src="https://user-images.githubusercontent.com/27909365/156888297-294feb0a-7b53-4abc-8306-72226ca8cda4.png" style="max-width: 100%;">

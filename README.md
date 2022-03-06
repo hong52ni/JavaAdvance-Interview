@@ -17,7 +17,7 @@
 </a>
 
 
-## 🎉 真心希望能帮助到大家，同时希望大家的支持求个 Star，Fork 谢谢（持续完善更新～）
+## 🎉 真心希望能够帮助到大家，整理不易，求个 Star，Fork 谢谢！（持续完善更新！）
 
 ### &#8627; Stargazers
 [![Stargazers repo roster for @hong52ni/JavaAdvance-Interview](https://reporoster.com/stars/hong52ni/JavaAdvance-Interview)](https://github.com/hong52ni/JavaAdvance-Interview/stargazers)

@@ -36,7 +36,7 @@
 9. Java集合的快速失败机制 “fail-fast”？
 10. 怎么确保一个集合不能被修改？
 
- .......
+ ........ 
 
 ![image](https://user-images.githubusercontent.com/28288225/156195686-85479839-bae2-454b-94f1-e71f8c033cd1.png)
 
